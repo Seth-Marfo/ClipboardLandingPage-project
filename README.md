@@ -5,20 +5,19 @@ The chanllenge is to build out a clipboard landing page which closely looks like
 # Customer Requirements
 Users should be able to view the optimal layout for the site depending on thier device's screen size and also see hover states for all interactive elements on the page.
 # My approach to the project
-1. I used visual studio code editor for writing the codes.
-2. I linked it to git to perform the push command to my repository on github.
-3. I built the project using HTML5 and CSS languages.
-# Acknowlegdement 
-This project was built with the help of my group member Stephen Amoako
+I carefully reviewed the design specification and what was required for the project with my group member.
+## The project was built using;
+1. Visual studio code editor for writing the codes.
+2. HTML5 and CSS languages.
+# Collaborator
+This project was built with the help of my group member Stephen Amoako (github-@StephenAmoako)
 # Aurthur 
-AmaliTech Training
+Github - @Seth-Marfo
 
-SSNIT House
+Email: 
+1. seth.marfo@amalitech.org
+2. marfoseth@icloud.com (personal email)
 
-27 Ama Akroma Road
-
-Takoradi, Ghana
-
-Postal Code: WS247
-
-www.amalitech.org
+Mobile:
+1. +233550400417
+2. +233265542128  
