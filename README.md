@@ -12,9 +12,8 @@ I carefully reviewed the design specification and what was required for the proj
 # Collaborator
 This project was built with the help of my group member Stephen Amoako (github-@StephenAmoako)
 # Aurthur 
-Github - @Seth-Marfo
-
-        - @StephenAmoako
+Github - @Seth-Marfo ,
+         @StephenAmoako
 
 Email: 
 1. seth.marfo@amalitech.org
