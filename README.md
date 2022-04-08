@@ -13,7 +13,8 @@ I carefully reviewed the design specification and what was required for the proj
 This project was built with the help of my group member Stephen Amoako (github-@StephenAmoako)
 # Aurthur 
 Github - @Seth-Marfo
-Github - @StephenAmoako
+
+        - @StephenAmoako
 
 Email: 
 1. seth.marfo@amalitech.org
